@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import Header from '../components/Header.jsx';
+import Header from '../Components/Header';
 import { useParams } from 'react-router-dom'
 
 
